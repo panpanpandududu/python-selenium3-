@@ -1,0 +1,43 @@
+1592643047481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofile1zYnVV"
+1592643049722	Marionette	INFO	Listening on port 52433
+1592643049737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592643062765	Marionette	INFO	Stopped listening on port 52433
+1592663776502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofilefic3U2"
+1592663778770	Marionette	INFO	Listening on port 53453
+1592663778864	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592663791897	Marionette	INFO	Stopped listening on port 53453
+1592899890972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofilejYxHNg"
+1592899893263	Marionette	INFO	Listening on port 50135
+1592899893321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592899906551	Marionette	INFO	Stopped listening on port 50135
+JavaScript error: http://www.5itest.cn/static-dist/libs/base.js?version=8.2.25, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1593338886530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofilepLMw9q"
+1593338891808	Marionette	INFO	Listening on port 49857
+1593338891921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593338905550	Marionette	INFO	Stopped listening on port 49857
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A002D,name=PHttpChannel::Msg_SetPriority) Closed channel: cannot send/recv
+
+1593338945611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofiletvo7hN"
+1593338948244	Marionette	INFO	Listening on port 49979
+1593338948272	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593338961515	Marionette	INFO	Stopped listening on port 49979
+1593583658257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofileKeovYh"
+1593583660357	Marionette	INFO	Listening on port 50242
+1593583660374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593583697104	Marionette	INFO	Stopped listening on port 50242
+1593583857345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofileeawMtO"
+1593583859361	Marionette	INFO	Listening on port 50328
+1593583859399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593583872695	Marionette	INFO	Stopped listening on port 50328
+1593585399361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofileHDNKMj"
+1593585401611	Marionette	INFO	Listening on port 50944
+1593585401711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593585415003	Marionette	INFO	Stopped listening on port 50944
+1593586171165	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/8b/8k77y6ys3nb_yhvxyt9jmtnr0000gn/T/rust_mozprofileqd9tV9"
+1593586173198	Marionette	INFO	Listening on port 51400
+1593586173215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593586186749	Marionette	INFO	Stopped listening on port 51400
